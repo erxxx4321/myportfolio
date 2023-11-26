@@ -8,8 +8,8 @@
 			<vs-navbar-item :active="active == 'projects'" id="projects" href="#project-content" target="_self"
 				>Projects</vs-navbar-item
 			>
-			<vs-navbar-item :active="active == 'education'" id="education" href="#education-content" target="_self"
-				>Education</vs-navbar-item
+			<vs-navbar-item :active="active == 'education'" id="education" href="#timeline-content" target="_self"
+				>Timeline</vs-navbar-item
 			>
 			<template #right> </template>
 		</vs-navbar>

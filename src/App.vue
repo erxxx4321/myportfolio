@@ -3,7 +3,7 @@
 		<Navbar />
 		<About />
 		<Project />
-		<Education />
+		<Timeline />
 		<Footer />
 	</div>
 </template>
@@ -12,7 +12,7 @@
 	import Navbar from './components/Navbar.vue';
 	import About from './components/About.vue';
 	import Project from './components/Projects.vue';
-	import Education from './components/Education.vue';
+	import Timeline from './components/Timeline.vue';
 	import Footer from './components/Footer.vue';
 
 	export default {
@@ -21,7 +21,7 @@
 			Navbar,
 			About,
 			Project,
-			Education,
+			Timeline,
 			Footer,
 		},
 	};
