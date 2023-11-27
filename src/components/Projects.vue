@@ -5,15 +5,15 @@
 			<vs-card-group>
 				<vs-card v-for="p in projects" :key="p.pid">
 					<template #title>
-						<h3>{{ p.name }}</h3>
+						<h3 style="height: 50px">{{ p.name }}</h3>
 					</template>
 					<template #img>
-						<a :href="`${p.link}`" target="_blank">
-							<img :src="`${p.img}`" alt="" />
+						<a :href="`${p.link}`" target="_blank" style="height: 180px">
+							<img :src="`${p.img}`" alt="" style="box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7)" />
 						</a>
 					</template>
 					<template #text>
-						<p>{{ p.desc }}</p>
+						<p style="height: 80px">{{ p.desc }}</p>
 					</template>
 					<template #interactions> </template>
 				</vs-card>

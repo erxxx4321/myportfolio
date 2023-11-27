@@ -1,17 +1,17 @@
 const projects = [
 	{
 		pid: 1,
-		name: 'Daily',
-		desc: 'Daily is a news website gathering daily information from New York Times API and mainly based on Food, Travel, Health, Insider Topics.',
+		name: 'Home Furniture Ecommerce app - FLutter & Node.js & MongoDB',
+		desc: 'Ecommerce app with login/register, shopping cart... features',
 		img: '../assets/images/project01.png',
-		link: 'https://daily-lifenews.netlify.app/',
+		link: 'https://github.com/erxxx4321/home',
 	},
 	{
 		pid: 2,
-		name: 'Vue Player',
-		desc: 'Music player created by VueJS.',
+		name: 'Flutter video_app',
+		desc: 'A Flutter app which is connected to my youtube channel.',
 		img: '../assets/images/project02.png',
-		link: 'https://erxxx4321.github.io/vue-player/',
+		link: 'https://github.com/erxxx4321/video_app',
 	},
 	{
 		pid: 3,
@@ -22,10 +22,17 @@ const projects = [
 	},
 	{
 		pid: 4,
-		name: 'Today Task',
-		desc: 'Daily task management system',
+		name: 'Vue Player',
+		desc: 'Music player created by VueJS.',
 		img: '../assets/images/project04.png',
-		link: 'https://today-task.netlify.app/',
+		link: 'https://erxxx4321.github.io/vue-player/',
+	},
+	{
+		pid: 5,
+		name: 'Daily',
+		desc: 'Daily is a news website gathering daily information from New York Times API and mainly based on Food, Travel, Health, Insider Topics.',
+		img: '../assets/images/project05.png',
+		link: 'https://daily-lifenews.netlify.app/',
 	},
 ];
 
