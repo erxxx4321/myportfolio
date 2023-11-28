@@ -4,8 +4,9 @@
 			<vs-col style="width: 400px">
 				<typewriter :full-erase="true" :words="['I am Evonne']"> Hi, </typewriter>
 				<p>
-					Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse, vero voluptates nemo quo, non commodi tempora officiis
-					maiores ea pariatur porro aperiam et dolores aut delectus beatae eveniet! Necessitatibus, culpa?
+					I have 2+ years of full stack development experience. Passionate about programming and learning new technologies,
+					continuous learning is my career goal. So I am very willing to accept new challenges and participate in innovative
+					projects.
 				</p>
 				<div style="margin-top: 10px">
 					<a href="https://github.com/erxxx4321">

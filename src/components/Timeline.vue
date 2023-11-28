@@ -30,14 +30,17 @@
 				{
 					from: new Date(2021, 8),
 					title: 'Front-end Developer / Longchen Paper & Packaging Co., Ltd. (Taiwan)',
-					description:
-						'1.Assisted company to implement new Electronic signature system and built overtime form, purchase order form, etc. with web and mobile app version. 2.Using Selenium to scrape commodities price data. 3.Automate daily covid-19 report work using Selenium, panda, gspread, python.ppt.',
+					description: '',
+				},
+				{
+					from: new Date(2020, 10),
+					title: 'Self learning Front-end development.',
+					description: '',
 				},
 				{
 					from: new Date(2019, 2),
 					title: 'Administrative Assistant / Shinwa Co.,Ltd. (Japan)',
-					description:
-						'1.Supported the printing operation and fixed common printer error. 2.Calculated daily processing profit and time cost to increase labour productivity. 3.Used Excel VBA to automate repetitive tasks and optimize workflow.',
+					description: '',
 				},
 			],
 		}),
